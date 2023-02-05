@@ -1,0 +1,15 @@
+C:\Users\LO\Desktop\HomeWork7\Work47\bin\Debug\net6.0\Work47.exe
+C:\Users\LO\Desktop\HomeWork7\Work47\bin\Debug\net6.0\Work47.deps.json
+C:\Users\LO\Desktop\HomeWork7\Work47\bin\Debug\net6.0\Work47.runtimeconfig.json
+C:\Users\LO\Desktop\HomeWork7\Work47\bin\Debug\net6.0\Work47.dll
+C:\Users\LO\Desktop\HomeWork7\Work47\bin\Debug\net6.0\Work47.pdb
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.csproj.AssemblyReference.cache
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.AssemblyInfoInputs.cache
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.AssemblyInfo.cs
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.csproj.CoreCompileInputs.cache
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.dll
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\refint\Work47.dll
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.pdb
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\Work47.genruntimeconfig.cache
+C:\Users\LO\Desktop\HomeWork7\Work47\obj\Debug\net6.0\ref\Work47.dll
